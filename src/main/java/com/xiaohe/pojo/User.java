@@ -5,4 +5,6 @@ public class User {
     private String idcard;
     private Integer id;
     private String  salary;
+    private String sex;
+
 }
